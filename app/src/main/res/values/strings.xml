@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Prueba_Parcial</string>
+    <string name="items">Items</string>
+    <string name="favorites">Favorites</string>
+    <string name="cargar">Cargar</string>
+    <string name="ingresar_un_n_mero">Ingresar un número</string>
+    <string name="favoritos">FAVORITOS</string>
+</resources>
